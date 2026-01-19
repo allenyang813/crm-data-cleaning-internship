@@ -1,7 +1,8 @@
 # CRM Data Cleaning & Analysis (Internship Project)
 
-This project demonstrates the data cleaning, standardisation, and exploratory analysis workflow I used during my internship at a remittance and currency exchange company.  
-All data used in this repository is anonymised or synthetic to protect company confidentiality.
+This project demonstrates the data cleaning, standardisation, and exploratory analysis workflow I used during my internship at a remittance and currency exchange company.
+
+**All data used in this repository is anonymised or synthetic to protect company confidentiality.**
 
 ## Tools Used
 - SQL (JOIN, GROUP BY, HAVING)
@@ -24,7 +25,5 @@ The goal of this project was to:
 5. Documented the workflow and findings in a Jupyter notebook.
 
 ## Notes
-- This repository uses **mock / anonymised data** only.
-- The code demonstrates workflow and methodology rather than real company data.
-- This project was completed as part of internship learning and skill development in data operations and analytics.
-
+- This repository focuses on demonstrating workflow and methodology rather than real company data.
+- The project reflects internship learning and skill development in data operations and analytics.

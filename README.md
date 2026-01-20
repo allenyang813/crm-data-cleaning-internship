@@ -10,20 +10,20 @@ This project demonstrates the data cleaning, standardisation, and exploratory an
 - Excel
 - Jupyter Notebook
 
+
 ## Project Objective
 The goal of this project was to:
-- clean and standardise CRM and transaction-style data
-- improve data consistency and usability
-- prepare datasets for reporting and further analysis
-- practise end-to-end data operations workflows
+- practise cleaning and standardising CRM-style data
+- prepare transaction data for analysis and reporting
+- create derived fields to support grouping and trend analysis
+- explore basic customer and currency transaction patterns
+- demonstrate a simple SQL → Python analysis workflow
+
 
 ## Workflow
-1. Extracted customer and transaction data using SQL queries (example queries included).
-2. Cleaned and standardised data using Python (handled missing values, duplicates, inconsistent formats).
-3. Performed exploratory analysis on customer activity and transaction volumes.
-4. Prepared cleaned datasets for reporting and reuse.
-5. Documented the workflow and findings in a Jupyter notebook.
-
-## Notes
-- This repository focuses on demonstrating workflow and methodology rather than real company data.
-- The project reflects internship learning and skill development in data operations and analytics.
+1. Wrote example SQL queries to demonstrate how CRM and transaction data would be queried from a relational database.
+2. Loaded synthetic CRM-style CSV files to simulate extracted tables.
+3. Cleaned and standardised data in Python (handling missing values, fixing data types, and creating derived fields).
+4. Joined related tables to create an analysis-ready dataset.
+5. Performed exploratory analysis using simple visualisations.
+6. Exported a cleaned dataset for reuse or reporting.
